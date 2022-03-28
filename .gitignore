@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+.docker_volumes/
+.idea/
+venv/
+.env
